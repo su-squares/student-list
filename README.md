@@ -6,6 +6,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 
 * William Entriken -- https://phor.net
 
-## Attending students
+## Attending students, assistants, teacher-track students
+* Robert Schwentker -- https://dlt.education
 
 * ADD YOUR NAME ABOVE HERE
