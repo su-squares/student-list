@@ -9,6 +9,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 ## Attending students, assistants, teacher-track students
 * Robert Schwentker -- https://dlt.education
 * Mariya Mego Vela -- Galvanize Web Immersive
+* Christina Maldonado -- Student
 * Chloe Cheau -- Galvanize Data Science Immersive 
 * Andrea Fabry -- Galvanize Data Science Immersive 
 * ADD YOUR NAME ABOVE HERE
