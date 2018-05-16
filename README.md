@@ -12,5 +12,6 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Christina Maldonado -- Student
 * Chloe Cheau -- Galvanize Data Science Immersive 
 * Andrea Fabry -- Galvanize Data Science Immersive 
+* Christina Lynn -- Student
 * Sara Morsi - Application Development Consultant at Slalom 
 * ADD YOUR NAME ABOVE HERE
