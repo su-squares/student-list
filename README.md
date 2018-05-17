@@ -14,5 +14,6 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Andrea Fabry -- Galvanize Data Science Immersive 
 * Christina Lynn -- Student
 * Sara Morsi - Application Development Consultant at Slalom 
+* Julianne Sloane -- Student
 * Li Ouyang - Student 
 * ADD YOUR NAME ABOVE HERE
