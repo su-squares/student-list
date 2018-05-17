@@ -16,4 +16,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Sara Morsi - Application Development Consultant at Slalom 
 * Julianne Sloane -- Student
 * Li Ouyang - Student 
+* Melina (MEL) Gonzalez -- Android developer with Gesture
 * ADD YOUR NAME ABOVE HERE
