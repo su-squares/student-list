@@ -28,4 +28,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Lisa LoCascio Lopez
 * Marcie Cheung - Ecommerce
 * Melis Bilgutay
+* Lisa Douglas
 * ADD YOUR NAME ABOVE HERE
