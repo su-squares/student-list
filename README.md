@@ -17,6 +17,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Sara Morsi - Application Development Consultant at Slalom 
 * Julianne Sloane -- Student
 * Li Ouyang - Student 
+* Ann Odell
 * Cecelia Auerswald - Student
 * Li Ouyang - Student
 * Nicole Swank
