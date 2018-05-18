@@ -23,9 +23,8 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Cecelia Auerswald - Student
 * Li Ouyang - Student
 * Nicole Swank
-* Christine Hwang
-* Lily Chang
 * Lisa LoCascio Lopez
 * Marcie Cheung - Ecommerce
 * Melis Bilgutay
+* Elen Awalom
 * ADD YOUR NAME ABOVE HERE
