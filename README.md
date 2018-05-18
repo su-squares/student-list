@@ -24,4 +24,6 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Li Ouyang - Student
 * Nicole Swank
 * Lisa LoCascio Lopez
+* Marcie Cheung - Ecommerce
+* Melis Bilgutay
 * ADD YOUR NAME ABOVE HERE
