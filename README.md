@@ -23,4 +23,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Cecelia Auerswald - Student
 * Li Ouyang - Student
 * Nicole Swank
+* Lisa LoCascio Lopez
 * ADD YOUR NAME ABOVE HERE
