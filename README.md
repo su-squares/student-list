@@ -5,6 +5,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 ## Teachers
 
 * William Entriken -- https://phor.net
+* Chen Cheng 
 
 ## Attending students, assistants, teacher-track students
 * Robert Schwentker -- https://dlt.education
@@ -17,4 +18,8 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Julianne Sloane -- Student
 * Li Ouyang - Student 
 * Paul Y. Morris - Real Estate Blockchain Enthusiast
+* Ann Odell
+* Cecelia Auerswald - Student
+* Li Ouyang - Student
+* Nicole Swank
 * ADD YOUR NAME ABOVE HERE
