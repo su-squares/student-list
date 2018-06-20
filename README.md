@@ -32,5 +32,6 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Katie Sievers - Student
 * Melissa Powell
 * Gage Valentino
+* Su Wang
 * Shi Yue
 * ADD YOUR NAME ABOVE HERE
