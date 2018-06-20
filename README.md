@@ -34,4 +34,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Gage Valentino
 * Su Wang
 * Shi Yue
+* Koba K
 * ADD YOUR NAME ABOVE HERE
