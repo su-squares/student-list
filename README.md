@@ -37,4 +37,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Koba K
 * Jack
 * Uncle BillisHere
+* Drew Entriken
 * ADD YOUR NAME ABOVE HERE
