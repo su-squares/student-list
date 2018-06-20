@@ -1,4 +1,4 @@
-# ERC-721 Class
+*# ERC-721 Class
 
 Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockchain-workshop-geared-for-women-tickets-43206067511
 
@@ -38,4 +38,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Jack
 * Uncle BillisHere
 * Drew Entriken
+* Mark Nichols
 * ADD YOUR NAME ABOVE HERE
