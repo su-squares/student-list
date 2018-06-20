@@ -36,4 +36,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Shi Yue
 * Koba K
 * Jack
+* Uncle BillisHere
 * ADD YOUR NAME ABOVE HERE
