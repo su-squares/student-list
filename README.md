@@ -35,4 +35,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Su Wang
 * Shi Yue
 * Koba K
+* Jack
 * ADD YOUR NAME ABOVE HERE
