@@ -1,4 +1,4 @@
-*# ERC-721 Class
+# ERC-721 Class
 
 Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockchain-workshop-geared-for-women-tickets-43206067511
 
@@ -8,6 +8,9 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Chen Cheng 
 
 ## Attending students, assistants, teacher-track students
+
+**New York, 2018-05-10**
+
 * Angie Lau -- Narramur, Chief Narrator www.narramur.com 
 * Robert Schwentker -- https://dlt.education
 * Mariya Mego Vela -- Galvanize Web Immersive
@@ -33,6 +36,9 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Katie Sievers - Student
 * Melissa Powell
 * Gage Valentino
+
+**Philadelplhia, 2018-06-20**
+
 * Su Wang
 * Shi Yue
 * Koba K
@@ -40,4 +46,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Uncle BillisHere
 * Drew Entriken
 * Mark Nichols
+
+**Hong Kong, 2018-07-27**
+
 * ADD YOUR NAME ABOVE HERE
