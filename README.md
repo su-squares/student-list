@@ -44,7 +44,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Koba K
 * Jack
 * Uncle BillisHere
-* Drew Entriken
+* Drew Entriken - Software Developer at Liberty Mutual
 * Mark Nichols
 
 **Hong Kong, 2018-07-27**
