@@ -51,4 +51,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 
 * Angie Lau -- Narramur, Chief Narrator www.narramur.com
 * kentydotcom - drugDealer
+* arthur
 * ADD YOUR NAME ABOVE HERE
