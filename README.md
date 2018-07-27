@@ -50,4 +50,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 **Hong Kong, 2018-07-27**
 
 * Angie Lau -- Narramur, Chief Narrator www.narramur.com
+* Rebecca Lo -- Community Lead, Passport http://pspt.io
 * ADD YOUR NAME ABOVE HERE
