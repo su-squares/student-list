@@ -57,6 +57,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * arthur
 * Bing Lin
 * Ines
+* Rachel
 * Cecilia
 * Hope
 * Amrit Sethi
