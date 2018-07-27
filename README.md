@@ -51,4 +51,6 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 
 * Angie Lau -- Narramur, Chief Narrator www.narramur.com
 * Rebecca Lo -- Community Lead, Passport http://pspt.io
+* kentydotcom - drugDealer
+* arthur
 * ADD YOUR NAME ABOVE HERE
