@@ -54,4 +54,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Rebecca Lo -- Community Lead, Passport http://pspt.io
 * kentydotcom - drugDealer
 * arthur
+* Ines
 * ADD YOUR NAME ABOVE HERE
