@@ -57,4 +57,4 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * arthur
 * Bing Lin
 * Ines
-* ADD YOUR NAME ABOVE HERE
+* Monica
