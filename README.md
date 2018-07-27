@@ -36,7 +36,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Katie Sievers - Student
 * Melissa Powell
 * Gage Valentino
-
+* Joseph Kwong
 **Philadelplhia, 2018-06-20**
 
 * Su Wang
