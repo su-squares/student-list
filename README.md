@@ -44,10 +44,17 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Koba K
 * Jack
 * Uncle BillisHere
-* Drew Entriken
+* Drew Entriken - Software Developer at Liberty Mutual
 * Mark Nichols
 
 **Hong Kong, 2018-07-27**
 
 * Angie Lau -- Narramur, Chief Narrator www.narramur.com
 * Eunice - ecommerce
+* Jens Wernborg -- REC
+* Rebecca Lo -- Community Lead, Passport http://pspt.io
+* kentydotcom - drugDealer
+* arthur
+* Bing Lin
+* Ines
+* ADD YOUR NAME ABOVE HERE
