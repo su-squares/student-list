@@ -68,4 +68,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Hope
 * Amrit Sethi
 * Rho Block
+* Joseph Kwong
 * ADD YOUR NAME ABOVE HERE
