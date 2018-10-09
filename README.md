@@ -1,6 +1,10 @@
 # ERC-721 Class
 
-Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockchain-workshop-geared-for-women-tickets-43206067511
+Event website (NEW YORK, May 2018): https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockchain-workshop-geared-for-women-tickets-43206067511
+
+Event website (HONG KONG, July 2018): https://www.meetup.com/TokenJam/events/253126249/
+
+Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadelphia-pharmaceuticals-supply-chain-and-blockchain-tickets-48864858106
 
 ## Teachers
 
@@ -69,4 +73,7 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Amrit Sethi
 * Rho Block
 * Joseph Kwong
+
+**Philadelphia, 2018-10-12**
+
 * ADD YOUR NAME ABOVE HERE
