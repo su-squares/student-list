@@ -76,4 +76,6 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 
 **Philadelphia, 2018-10-12**
 
+* Evan Tini
+
 * ADD YOUR NAME ABOVE HERE
