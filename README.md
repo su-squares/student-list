@@ -75,5 +75,6 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 * Joseph Kwong
 
 **Philadelphia, 2018-10-12**
+* Andrew Long -- Principal at aplusldevelopment.com
 
 * ADD YOUR NAME ABOVE HERE
