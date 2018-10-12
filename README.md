@@ -81,5 +81,5 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 * Kelly Randis
 
 * Lisa LoCascio Lopez
-
+* Rishabh Agarwal
 * ADD YOUR NAME ABOVE HERE
