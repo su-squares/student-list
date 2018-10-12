@@ -40,7 +40,7 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 * Katie Sievers - Student
 * Melissa Powell
 * Gage Valentino
-
+* Joseph Kwong
 **Philadelplhia, 2018-06-20**
 
 * Su Wang
