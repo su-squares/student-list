@@ -82,4 +82,5 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 
 * Lisa LoCascio Lopez
 * Rishabh Agarwal
+* Stacy Wang
 * ADD YOUR NAME ABOVE HERE
