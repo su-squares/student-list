@@ -50,6 +50,7 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 * Uncle BillisHere
 * Drew Entriken - Software Developer at Liberty Mutual
 * Mark Nichols
+* John Sterlacci
 
 **Hong Kong, 2018-07-27**
 
