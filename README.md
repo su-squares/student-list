@@ -79,4 +79,6 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 
 * Evan Tini
 
+* Lisa LoCascio Lopez
+
 * ADD YOUR NAME ABOVE HERE
