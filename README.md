@@ -79,8 +79,11 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 
 * Evan Tini
 * Kelly Randis
-
+* Anantha Kondalraj
 * Lisa LoCascio Lopez
 * Rishabh Agarwal
 * Stacy Wang
+* Devon Yarbrough
+* John Sterlacci
+* Franklin Maggay
 * ADD YOUR NAME ABOVE HERE
