@@ -6,16 +6,18 @@ Event website (HONG KONG, July 2018): https://www.meetup.com/TokenJam/events/253
 
 Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadelphia-pharmaceuticals-supply-chain-and-blockchain-tickets-48864858106
 
+Event website (MIAMI, December 2021): https://www.dcentralcon.com
+
 ## Teachers
 
 * William Entriken -- https://phor.net
-* Chen Cheng 
+* Chen Cheng
+* Scarlet Zhou
 
 ## Attending students, assistants, teacher-track students
 
 **New York, 2018-05-10**
 
-* Angie Lau -- Narramur, Chief Narrator www.narramur.com 
 * Robert Schwentker -- https://dlt.education
 * Mariya Mego Vela -- Galvanize Web Immersive
 * Christina Maldonado -- Student
@@ -76,7 +78,6 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 
 **Philadelphia, 2018-10-12**
 * Andrew Long -- Principal at aplusldevelopment.com
-
 * Evan Tini
 * Kelly Randis
 * Anantha Kondalraj
@@ -86,4 +87,6 @@ Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadel
 * Devon Yarbrough
 * John Sterlacci
 * Franklin Maggay
+
+**Miami, 2021-12-01**
 * ADD YOUR NAME ABOVE HERE
