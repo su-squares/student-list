@@ -97,4 +97,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Raja Mehtab
 * Austin Hulak
 * Giotto Troia
+* Liza Lopez
 * ADD YOUR NAME ABOVE HERE
