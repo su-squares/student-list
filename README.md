@@ -96,4 +96,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Courtney Francis
 * Raja Mehtab
 * Austin Hulak
+* Giotto Troia
 * ADD YOUR NAME ABOVE HERE
