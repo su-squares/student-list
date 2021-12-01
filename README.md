@@ -93,6 +93,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * William Penney III
 * Maciej Frik
 * Scott Andersen
+* Jorge Lafosse
 * Courtney Francis
 * Raja Mehtab
 * Austin Hulak
