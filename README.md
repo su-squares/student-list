@@ -21,12 +21,12 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Robert Schwentker -- https://dlt.education
 * Mariya Mego Vela -- Galvanize Web Immersive
 * Christina Maldonado -- Student
-* Chloe Cheau -- Galvanize Data Science Immersive 
-* Andrea Fabry -- Galvanize Data Science Immersive 
+* Chloe Cheau -- Galvanize Data Science Immersive
+* Andrea Fabry -- Galvanize Data Science Immersive
 * Christina Lynn -- Student
-* Sara Morsi - Application Development Consultant at Slalom 
+* Sara Morsi - Application Development Consultant at Slalom
 * Julianne Sloane -- Student
-* Li Ouyang - Student 
+* Li Ouyang - Student
 * Melina (MEL) Gonzalez -- Android developer with Gesture
 * Paul Y. Morris - Real Estate Blockchain Enthusiast
 * Ann Odell
@@ -95,4 +95,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Scott Andersen
 * Courtney Francis
 * Raja Mehtab
+* Austin Hulak
 * ADD YOUR NAME ABOVE HERE
