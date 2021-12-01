@@ -98,4 +98,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Austin Hulak
 * Giotto Troia
 * Liza Lopez
+* Tracy Williams
 * ADD YOUR NAME ABOVE HERE
