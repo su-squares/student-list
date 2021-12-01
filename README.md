@@ -89,5 +89,6 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Franklin Maggay
 
 **Miami, 2021-12-01**
+* AJ Jolivette
 * William Penney III
 * ADD YOUR NAME ABOVE HERE
