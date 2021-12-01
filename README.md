@@ -100,4 +100,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Liza Lopez
 * Tracy Williams
 * RJon Robins
+* Kevin Schwartz - Real Estate Blockchain Developer
 * ADD YOUR NAME ABOVE HERE
