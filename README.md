@@ -108,4 +108,4 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Puroof
 * Oliver
 * Lee Tang
-* ADD YOUR NAME ABOVE HERE
+* PNGCollector
