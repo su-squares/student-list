@@ -112,4 +112,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * 62serpens
 * Billy Shih
 * Luke James
+* Miottia
 * ADD YOUR NAME ABOVE HERE
