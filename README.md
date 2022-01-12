@@ -103,4 +103,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * RJon Robins
 * Kevin Schwartz - Real Estate Blockchain Developer
 * Shawn Hutchens 
+* Fedor Ushakov
 * ADD YOUR NAME ABOVE HERE
