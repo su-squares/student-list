@@ -114,3 +114,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Luke James
 * Miottia
 * PNGCollector
+* Sothy
+* ADD YOUR NAME ABOVE HERE
