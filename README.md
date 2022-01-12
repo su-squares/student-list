@@ -106,4 +106,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 
 **Origins NFT, 2022-01-18**
 * Puroof
+* Oliver
 * ADD YOUR NAME ABOVE HERE
