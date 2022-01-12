@@ -109,4 +109,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Oliver
 * Lee Tang
 * Alderaan
+* 62serpens
 * ADD YOUR NAME ABOVE HERE
