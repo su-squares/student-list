@@ -115,4 +115,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Miottia
 * PNGCollector
 * Sothy
+* beeteegee
 * ADD YOUR NAME ABOVE HERE
