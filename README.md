@@ -116,4 +116,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * PNGCollector
 * Sothy
 * beeteegee
+* Xavier Finlayson
 * ADD YOUR NAME ABOVE HERE
