@@ -117,4 +117,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Sothy
 * beeteegee
 * Xavier Finlayson
+* Patrick Workman
 * ADD YOUR NAME ABOVE HERE
