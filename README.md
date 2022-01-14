@@ -118,4 +118,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * beeteegee
 * Xavier Finlayson
 * Alan
+* Patrick Workman
 * ADD YOUR NAME ABOVE HERE
