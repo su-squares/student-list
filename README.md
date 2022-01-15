@@ -119,4 +119,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Xavier Finlayson
 * Alan
 * Patrick Workman
+* Dubb
 * ADD YOUR NAME ABOVE HERE
