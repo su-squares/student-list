@@ -121,5 +121,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Patrick Workman
 * Chriss
 * Jzii
+* Lennart
+* kp (kp5ive)
 * Abraham Bryant
 * ADD YOUR NAME ABOVE HERE
