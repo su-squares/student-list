@@ -138,4 +138,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Danylo Kravets
 * nancyy
 * silvr
+* Anderik
 * ADD YOUR NAME ABOVE HERE
