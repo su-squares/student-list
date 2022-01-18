@@ -144,4 +144,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Arienai
 * Bassmender
 * Marcus Lee
+* notrug
 * ADD YOUR NAME ABOVE HERE
