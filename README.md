@@ -135,4 +135,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Tomalexeth
 * phxcat
 * pancakeflabs
+* Danylo Kravets
 * ADD YOUR NAME ABOVE HERE
