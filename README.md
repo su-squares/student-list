@@ -142,4 +142,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Denis Mittakarin
 * [Evan Tan](https://github.com/evan-tan/evan-tan)
 * Arienai
+* Bassmender
 * ADD YOUR NAME ABOVE HERE
