@@ -136,5 +136,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * phxcat
 * pancakeflabs
 * Danylo Kravets
-* nancyy
+* josephh
 * ADD YOUR NAME ABOVE HERE
