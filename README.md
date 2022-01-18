@@ -131,4 +131,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Carbo
 * TemujinTheMeek
 * RacBrasti
+* TRIGO
 * ADD YOUR NAME ABOVE HERE
