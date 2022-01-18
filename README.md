@@ -149,4 +149,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * josephh
 * sebasricch
 * DineroDom
+* CoolBeans
 * ADD YOUR NAME ABOVE HERE
