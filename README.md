@@ -147,4 +147,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * notrug
 * jieunah
 * josephh
+* sebasricch
 * ADD YOUR NAME ABOVE HERE
