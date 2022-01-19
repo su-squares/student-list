@@ -179,4 +179,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Nick T
 * tphun972
 * mistergold
+* anarc
 * ADD YOUR NAME ABOVE HERE
