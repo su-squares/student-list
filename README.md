@@ -167,4 +167,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Hunter
 * FuZzyy14
 * ComptonCupcakes
+* BordingCo
 * ADD YOUR NAME ABOVE HERE
