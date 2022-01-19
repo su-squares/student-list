@@ -169,4 +169,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * ComptonCupcakes
 * BordingCo
 * Thumper28
+* Steady
 * ADD YOUR NAME ABOVE HERE
