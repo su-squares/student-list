@@ -185,4 +185,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Brett Epstein
 * Hoss Sharifkazemi
 * Jacklyn
+* Chris
 * ADD YOUR NAME ABOVE HERE
