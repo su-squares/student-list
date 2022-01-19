@@ -168,4 +168,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * FuZzyy14
 * ComptonCupcakes
 * BordingCo
+* Thumper28
 * ADD YOUR NAME ABOVE HERE
