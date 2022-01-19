@@ -152,5 +152,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * CoolBeans
 * Parkerchong
 * [Aaron Hulse](https://github.com/theding0x)
-* Travysto
+* Steady
 * ADD YOUR NAME ABOVE HERE
