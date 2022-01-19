@@ -176,4 +176,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * kinetic lyx
 * Yzakami
 * Bryan Lam
+* Nick T
 * ADD YOUR NAME ABOVE HERE
