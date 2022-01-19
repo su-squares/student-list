@@ -150,5 +150,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * sebasricch
 * DineroDom
 * CoolBeans
-* branavan.eth
+* [Branavan Nagarajan](https://github.com/branavann)
 * ADD YOUR NAME ABOVE HERE
