@@ -174,4 +174,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * astcan
 * Andy Lin
 * kinetic lyx
+* Yzakami
 * ADD YOUR NAME ABOVE HERE
