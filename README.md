@@ -153,4 +153,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Parkerchong
 * [Aaron Hulse](https://github.com/theding0x)
 * Travysto
+* [David Luo](https://github.com/luodavid)
 * ADD YOUR NAME ABOVE HERE
