@@ -195,4 +195,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Nick T](https://github.com/tacodao)
 * [Matin Nahvi](https://github.com/matin-n)
 * Peter Upapong
+* Miguel
 * ADD YOUR NAME ABOVE HERE
