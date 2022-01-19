@@ -131,7 +131,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Carbo
 * TemujinTheMeek
 * RacBrasti
-* TRIGO
+* Jerry Perez
 * Tomalexeth
 * phxcat
 * pancakeflabs
