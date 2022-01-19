@@ -192,4 +192,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Ellsworth
 * Travys Uyekawa
 * Nick Sexton
+* [Nick T](https://github.com/tacodao)
 * ADD YOUR NAME ABOVE HERE
