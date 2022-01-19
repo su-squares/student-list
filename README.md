@@ -124,14 +124,14 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Lennart
 * kp (kp5ive)
 * Abraham Bryant
-* LukenzEth
+* Luke Stancliffe-White
 * Cee
 * Kbruh
 * Ahveair
 * Carbo
 * TemujinTheMeek
 * RacBrasti
-* TRIGO
+* Jerry Perez
 * Tomalexeth
 * phxcat
 * pancakeflabs
@@ -148,7 +148,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * jieunah
 * josephh
 * sebasricch
-* DineroDom
+* Dominic Zagame
 * CoolBeans
 * Yonatan 
 * Parkerchong
@@ -170,5 +170,27 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * BordingCo
 * Thumper28
 * Steady
+* Ryan
+* astcan
+* Andy Lin
+* kinetic lyx
+* Yzakami
+* Bryan Lam
+* Nick T
+* tphun972
+* mistergold
+* anarc
+* [Ajay Gandhi](https://www.linkedin.com/in/gandhi-ajay/)
+* Jon Lynch
+* Brett Epstein
+* Hoss Sharifkazemi
+* Jacklyn
+* Chris
+* Kai De Windt
+* EtherHog
+* William Newton (willaa)
+* Ellsworth
+* Travys Uyekawa
+* Nick Sexton
 * [Nick T](https://github.com/tacodao)
 * ADD YOUR NAME ABOVE HERE
