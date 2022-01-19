@@ -196,4 +196,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Matin Nahvi](https://github.com/matin-n)
 * Peter Upapong
 * Miguel
+* Mikołaj Sowa (Sowa) - [github](https://github.com/Mikowhy-owl) [linkedin](https://www.linkedin.com/in/miksow/)
 * ADD YOUR NAME ABOVE HERE
