@@ -157,4 +157,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * DapperJon
 * pknft
 * Dan_CrzyHnd
+* mistergold
 * ADD YOUR NAME ABOVE HERE
