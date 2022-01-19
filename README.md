@@ -156,4 +156,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * AgudeloFinance
 * DapperJon
 * pknft
+* Dan_CrzyHnd
 * ADD YOUR NAME ABOVE HERE
