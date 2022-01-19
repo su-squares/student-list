@@ -132,7 +132,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * TemujinTheMeek
 * RacBrasti
 * TRIGO
-* Tomalexeth
+* Tom Alexander
 * phxcat
 * pancakeflabs
 * Danylo Kravets
@@ -152,5 +152,4 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * CoolBeans
 * Parkerchong
 * [Aaron Hulse](https://github.com/theding0x)
-* Travysto
 * ADD YOUR NAME ABOVE HERE
