@@ -181,4 +181,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * mistergold
 * anarc
 * [Ajay Gandhi](https://www.linkedin.com/in/gandhi-ajay/)
+* Jon Lynch
 * ADD YOUR NAME ABOVE HERE
