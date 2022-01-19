@@ -182,4 +182,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * anarc
 * [Ajay Gandhi](https://www.linkedin.com/in/gandhi-ajay/)
 * Jon Lynch
+* Brett Epstein
 * ADD YOUR NAME ABOVE HERE
