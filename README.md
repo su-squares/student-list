@@ -150,7 +150,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * sebasricch
 * Dominic Zagame
 * CoolBeans
-* Yonatan 
+* [Yonatan Leulseged](https://github.com/YonatanLeulseged)
 * Parkerchong
 * [Aaron Hulse](https://github.com/theding0x)
 * Travysto
