@@ -183,4 +183,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Ajay Gandhi](https://www.linkedin.com/in/gandhi-ajay/)
 * Jon Lynch
 * Brett Epstein
+* Hoss Sharifkazemi
 * ADD YOUR NAME ABOVE HERE
