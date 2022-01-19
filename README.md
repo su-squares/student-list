@@ -151,4 +151,6 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * DineroDom
 * CoolBeans
 * willaa
+* Parkerchong
+* [Aaron Hulse](https://github.com/theding0x)
 * ADD YOUR NAME ABOVE HERE
