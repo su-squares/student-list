@@ -188,4 +188,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Chris
 * Kai De Windt
 * EtherHog
+* William Newton (willaa)
 * ADD YOUR NAME ABOVE HERE
