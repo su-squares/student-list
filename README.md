@@ -106,7 +106,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 
 **Origins NFT, 2022-01-18**
 * Puroof
-* Oliver
+* [Oliver Popadich](https://github.com/opdich)
 * Lee Tang
 * Alderaan
 * 62serpens
