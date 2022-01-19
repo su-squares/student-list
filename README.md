@@ -160,4 +160,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * mistergold
 * xohu
 * Plant Baked
+* isose
 * ADD YOUR NAME ABOVE HERE
