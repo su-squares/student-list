@@ -191,4 +191,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * William Newton (willaa)
 * Ellsworth
 * Travys Uyekawa
+* Nick Sexton
 * ADD YOUR NAME ABOVE HERE
