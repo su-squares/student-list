@@ -154,4 +154,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Aaron Hulse](https://github.com/theding0x)
 * Travysto
 * AgudeloFinance
+* DapperJon
 * ADD YOUR NAME ABOVE HERE
