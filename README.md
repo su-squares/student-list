@@ -170,4 +170,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * BordingCo
 * Thumper28
 * Steady
+* [Nick T](https://github.com/tacodao)
 * ADD YOUR NAME ABOVE HERE
