@@ -178,4 +178,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Bryan Lam
 * Nick T
 * tphun972
+* mistergold
 * ADD YOUR NAME ABOVE HERE
