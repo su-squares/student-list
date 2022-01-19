@@ -148,7 +148,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * jieunah
 * josephh
 * sebasricch
-* DineroDom
+* Dominic Zagame
 * CoolBeans
 * Parkerchong
 * [Aaron Hulse](https://github.com/theding0x)
