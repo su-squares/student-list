@@ -124,7 +124,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Lennart
 * kp (kp5ive)
 * Abraham Bryant
-* LukenzEth
+* Luke Stancliffe-White
 * Cee
 * Kbruh
 * Ahveair
