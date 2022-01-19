@@ -190,4 +190,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * EtherHog
 * William Newton (willaa)
 * Ellsworth
+* Travys Uyekawa
 * ADD YOUR NAME ABOVE HERE
