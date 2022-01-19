@@ -180,4 +180,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * tphun972
 * mistergold
 * anarc
+* [Ajay Gandhi](https://www.linkedin.com/in/gandhi-ajay/)
 * ADD YOUR NAME ABOVE HERE
