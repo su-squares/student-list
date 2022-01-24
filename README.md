@@ -122,7 +122,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Chriss
 * Jzii
 * Lennart
-* [Kevin Stevenson] (https://github.com/kp5ive)
+* [Kevin Stevenson](https://github.com/kp5ive)
 * Abraham Bryant
 * Luke Stancliffe-White
 * Cee
