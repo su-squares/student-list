@@ -122,7 +122,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Chriss
 * Jzii
 * Lennart
-* [Kevin Stevenson] (https://github.com/kp5ive)
+* [Kevin Stevenson](https://github.com/kp5ive)
 * Abraham Bryant
 * Luke Stancliffe-White
 * Cee
@@ -198,5 +198,6 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Miguel
 * Mikołaj Sowa (Sowa) - [github](https://github.com/Mikowhy-owl) [linkedin](https://www.linkedin.com/in/miksow/)
 * [Branavan Nagarajan](https://github.com/branavann)
+* Dominic L
 * [Filip Da Silva](https://github.com/filipdasilva)
 * ADD YOUR NAME ABOVE HERE
