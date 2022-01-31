@@ -199,4 +199,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Mikołaj Sowa (Sowa) - [github](https://github.com/Mikowhy-owl) [linkedin](https://www.linkedin.com/in/miksow/)
 * [Branavan Nagarajan](https://github.com/branavann)
 * Dominic L
+* [Filip Da Silva](https://github.com/filipdasilva)
 * ADD YOUR NAME ABOVE HERE
