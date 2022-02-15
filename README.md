@@ -201,5 +201,6 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Dominic L
 * [Filip Da Silva](https://github.com/filipdasilva)
 * Ethen Adams
+* Deano
 * retromort
 * ADD YOUR NAME ABOVE HERE
