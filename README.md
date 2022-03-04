@@ -204,4 +204,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Deano
 * retromort
 * svzy
+* jeffalomaniac
 * ADD YOUR NAME ABOVE HERE
