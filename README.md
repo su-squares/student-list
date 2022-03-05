@@ -206,4 +206,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * svzy
 * jeffalomaniac
 * David Ellery
+* [Tarnished](https://github.com/tarnisheddev)
 * ADD YOUR NAME ABOVE HERE
