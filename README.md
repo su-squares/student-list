@@ -43,6 +43,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Melissa Powell
 * Gage Valentino
 
+
 **Philadelplhia, 2018-06-20**
 
 * Su Wang
@@ -208,5 +209,8 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * David Ellery
 * [Tarnished](https://github.com/tarnisheddev)
 * Wufflz
+* escapedmonkey
+* Grin
+* Brett M
 * Angelo
 * ADD YOUR NAME ABOVE HERE
