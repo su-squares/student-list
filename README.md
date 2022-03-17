@@ -209,4 +209,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Tarnished](https://github.com/tarnisheddev)
 * Wufflz
 * escapedmonkey
+* Grin
 * ADD YOUR NAME ABOVE HERE
