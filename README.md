@@ -212,5 +212,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * escapedmonkey
 * Grin
 * Brett M
+* Angelo
+* lilbaby9778
 * Angelo Fernando
 * ADD YOUR NAME ABOVE HERE
