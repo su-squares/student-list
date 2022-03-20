@@ -187,7 +187,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Hoss Sharifkazemi
 * Jacklyn
 * Chris
-* Kai De Windt
+* [Kai De Windt](https://github.com/dewindtk)
 * EtherHog
 * William Newton (willaa)
 * Ellsworth
