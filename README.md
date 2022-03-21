@@ -215,5 +215,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Angelo
 * lilbaby9778
 * Angelo Fernando
-* Rohan(https://github.com/rohan-prasad)
+* [Rohan](https://github.com/rohan-prasad)
 * ADD YOUR NAME ABOVE HERE
