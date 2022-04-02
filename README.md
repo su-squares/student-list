@@ -219,4 +219,4 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * ADD YOUR NAME ABOVE HERE
 
 **NFT Tallinn workshop 2022-04-05**
-* ADD YOUR NAME ABOVE HERE
+* [Kirill Trunov](https://github.com/trunov)
