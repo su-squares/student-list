@@ -221,4 +221,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 **NFT Tallinn workshop 2022-04-05**
 * Heiti K
 * David Ryabchikov
+* Shadow1591000 (Mark Voronov)
 * ADD YOUR NAME ABOVE HERE
