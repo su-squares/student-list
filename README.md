@@ -238,4 +238,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Kirill Trunov](https://github.com/trunov)
 * Albert Ploom
 * Hans H M
+* Mark HM
 * ADD YOUR NAME ABOVE HERE
