@@ -226,4 +226,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Indrek K
 * Siim Kaljuorg
 * Lauri Sarap
+* Ralf-Stiven Viru
 * ADD YOUR NAME ABOVE HERE
