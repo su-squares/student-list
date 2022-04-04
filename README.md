@@ -223,4 +223,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * David Ryabchikov
 * [Kaur Korjus](https://github.com/korjusk)
 * Marilin Berg
+* Indrek K
 * ADD YOUR NAME ABOVE HERE
