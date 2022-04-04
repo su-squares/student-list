@@ -226,5 +226,13 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Indrek K
 * Siim Kaljuorg
 * Lauri Sarap
+* Meelis Männari
+* Kaur Vadi
+* Rene Rebbase
+* Danil Garmatyuk
+* Kirill Soloviev
+* [Stefan Djokovic](https://github.com/StefanDjokovic)
+* Ilian Helendi
+* Menglu T
 * Ralf-Stiven Viru
 * ADD YOUR NAME ABOVE HERE
