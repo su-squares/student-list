@@ -221,4 +221,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 **NFT Tallinn workshop 2022-04-05**
 * Heiti K
 * David Ryabchikov
+* [Kaur Korjus](https://github.com/korjusk)
 * ADD YOUR NAME ABOVE HERE
