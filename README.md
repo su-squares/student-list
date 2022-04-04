@@ -228,4 +228,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Lauri Sarap
 * Meelis Männari
 * Kaur Vadi
+* Rene Rebbase
 * ADD YOUR NAME ABOVE HERE
