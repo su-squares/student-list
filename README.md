@@ -235,4 +235,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Ilian Helendi
 * Menglu T
 * Ralf-Stiven Viru
+* [Kirill Trunov](https://github.com/trunov)
 * ADD YOUR NAME ABOVE HERE
