@@ -225,4 +225,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Marilin Berg
 * Indrek K
 * Siim Kaljuorg
+* Lauri Sarap
 * ADD YOUR NAME ABOVE HERE
