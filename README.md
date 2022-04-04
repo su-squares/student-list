@@ -230,4 +230,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Kaur Vadi
 * Rene Rebbase
 * Danil Garmatyuk
+* Kirill Soloviev
 * ADD YOUR NAME ABOVE HERE
