@@ -239,4 +239,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Albert Ploom
 * Hans H M
 * Mark HM
+* Jeevy B
 * ADD YOUR NAME ABOVE HERE
