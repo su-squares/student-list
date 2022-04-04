@@ -236,4 +236,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Menglu T
 * Ralf-Stiven Viru
 * [Kirill Trunov](https://github.com/trunov)
+* Albert Ploom
 * ADD YOUR NAME ABOVE HERE
