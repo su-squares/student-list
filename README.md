@@ -229,4 +229,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Meelis Männari
 * Kaur Vadi
 * Rene Rebbase
+* Danil Garmatyuk
 * ADD YOUR NAME ABOVE HERE
