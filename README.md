@@ -224,4 +224,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Kaur Korjus](https://github.com/korjusk)
 * Marilin Berg
 * Indrek K
+* Siim Kaljuorg
 * ADD YOUR NAME ABOVE HERE
