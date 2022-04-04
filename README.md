@@ -234,4 +234,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Stefan Djokovic](https://github.com/StefanDjokovic)
 * Ilian Helendi
 * Menglu T
+* Ralf-Stiven Viru
 * ADD YOUR NAME ABOVE HERE
