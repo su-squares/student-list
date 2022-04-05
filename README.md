@@ -216,6 +216,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * lilbaby9778
 * Angelo Fernando
 * [Rohan](https://github.com/rohan-prasad)
+* Gurparshad Sharma
 * ADD YOUR NAME ABOVE HERE
 
 **NFT Tallinn workshop 2022-04-05**
@@ -240,5 +241,10 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Hans H M
 * Mark HM
 * Anna J
+* Ahti Nurme
+* Jeevy B
+* Karl P
+* [Mikk Õun](https://github.com/mikkoun)
+* Ottavio C
 * [Umar Zarip](https://github.com/umarzarip)
 * ADD YOUR NAME ABOVE HERE
