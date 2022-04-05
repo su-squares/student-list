@@ -249,4 +249,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Ottavio C
 * [Umar Zarip](https://github.com/umarzarip)
 * Mary T
+* Nika Kara
 * ADD YOUR NAME ABOVE HERE
