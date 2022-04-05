@@ -244,4 +244,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Ahti Nurme
 * Jeevy B
 * Karl P
+* [Mikk Õun](https://github.com/mikkoun)
 * ADD YOUR NAME ABOVE HERE
