@@ -246,5 +246,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Karl P
 * [Mikk Õun](https://github.com/mikkoun)
 * Ottavio C
-* [Umar Zarip](https://github.com/umarzarip)
+* Simon Fox Kuuse
 * ADD YOUR NAME ABOVE HERE
