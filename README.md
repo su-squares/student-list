@@ -247,4 +247,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Mikk Õun](https://github.com/mikkoun)
 * Ottavio C
 * [Umar Zarip](https://github.com/umarzarip)
+* Mary T
 * ADD YOUR NAME ABOVE HERE
