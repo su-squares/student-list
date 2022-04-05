@@ -239,4 +239,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Albert Ploom
 * Hans H M
 * Mark HM
+* [Mikk Õun](https://github.com/mikkoun)
 * ADD YOUR NAME ABOVE HERE
