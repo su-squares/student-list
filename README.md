@@ -257,4 +257,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Katrin Press
 * RagnarKru
 * Harry McCloskey
+* [Brendan Quinn](https://github.com/bquinn)
 * ADD YOUR NAME ABOVE HERE
