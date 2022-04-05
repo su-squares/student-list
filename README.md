@@ -253,4 +253,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * David C
 * Mikk Laos
 * Madis Sein
+* Simon Fox Kuuse
 * ADD YOUR NAME ABOVE HERE
