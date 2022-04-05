@@ -250,4 +250,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Umar Zarip](https://github.com/umarzarip)
 * Mary T
 * Nika Kara
+* David C
 * ADD YOUR NAME ABOVE HERE
