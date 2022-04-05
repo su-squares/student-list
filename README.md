@@ -252,4 +252,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Nika Kara
 * David C
 * Mikk Laos
+* Madis Sein
 * ADD YOUR NAME ABOVE HERE
