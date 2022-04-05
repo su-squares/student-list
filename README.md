@@ -241,5 +241,4 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Mark HM
 * Anna J
 * Ahti Nurme
-* Ahti Nurme
 * ADD YOUR NAME ABOVE HERE
