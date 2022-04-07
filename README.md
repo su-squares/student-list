@@ -257,5 +257,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Katrin Press
 * RagnarKru
 * Harry McCloskey
+* Jürgen Nigul
+* Marge Mölder
 * Artur Falgot
 * ADD YOUR NAME ABOVE HERE
