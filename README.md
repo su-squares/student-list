@@ -258,4 +258,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * RagnarKru
 * Harry McCloskey
 * Jürgen Nigul
+* Marge Mölder
 * ADD YOUR NAME ABOVE HERE
