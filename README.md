@@ -262,4 +262,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Artur Falgot
 * [Brendan Quinn](https://github.com/bquinn)
 * Andrei Sittsenko
+* Kaarel A
 * ADD YOUR NAME ABOVE HERE
