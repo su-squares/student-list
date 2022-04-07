@@ -261,4 +261,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Marge Mölder
 * Artur Falgot
 * [Brendan Quinn](https://github.com/bquinn)
+* Andrei Sittsenko
 * ADD YOUR NAME ABOVE HERE
