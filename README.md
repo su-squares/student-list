@@ -218,6 +218,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Rohan](https://github.com/rohan-prasad)
 * Gurparshad Sharma
 * Sui Sui (@Sui-Sui2000)
+* LC66
 * Cocoa (@NFTCocoa)
 * ADD YOUR NAME ABOVE HERE
 
