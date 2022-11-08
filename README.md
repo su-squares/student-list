@@ -266,3 +266,6 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Andrei Sittsenko
 * Kaarel A
 * ADD YOUR NAME ABOVE HERE
+
+**Hack Web3 - TRON x EasyA Hackathon 2022-11-12**
+* Sasank Chunduri
