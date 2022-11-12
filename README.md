@@ -272,4 +272,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Zaid
 * Sasank Chunduri
 * Vamshi Paili
+* Jennifer Shum
 * ADD YOUR NAME ABOVE HERE
