@@ -269,7 +269,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Kaarel A
 
 **TRON Harvard Hacker House 2022-11-11**
-
 * Zaid
 * Sasank Chunduri
+* Vamshi Paili
 * ADD YOUR NAME ABOVE HERE
