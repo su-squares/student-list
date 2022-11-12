@@ -105,7 +105,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Kevin Schwartz - Real Estate Blockchain Developer
 * Shawn Hutchens 
 
-**Origins NFT, 2022-01-18**
+**Origins NFT, 2022**
 * Puroof
 * [Oliver Popadich](https://github.com/opdich)
 * Lee Tang
@@ -220,6 +220,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Sui Sui (@Sui-Sui2000)
 * LC66
 * Cocoa (@NFTCocoa)
+* [Micah Gabbard](https://github.com/micah4232)
 * ADD YOUR NAME ABOVE HERE
 
 **NFT Tallinn workshop 2022-04-05**
@@ -266,7 +267,3 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Andrei Sittsenko
 * Kaarel A
 * ADD YOUR NAME ABOVE HERE
-
-**Origins NFT, 2022-09-02**
-[Micah Gabbard](https://github.com/micah4232)
-ADD YOUR NAME ABOVE HERE
