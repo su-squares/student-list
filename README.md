@@ -1,22 +1,14 @@
 # ERC-721 Class
 
-Event website (NEW YORK, May 2018): https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockchain-workshop-geared-for-women-tickets-43206067511
-
-Event website (HONG KONG, July 2018): https://www.meetup.com/TokenJam/events/253126249/
-
-Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadelphia-pharmaceuticals-supply-chain-and-blockchain-tickets-48864858106
-
-Event website (MIAMI, December 2021): https://www.dcentralcon.com
-
-## Teachers
+Your teachers:
 
 * William Entriken -- https://phor.net
 * Chen Cheng
 * Scarlet Zhou
 
-## Attending students, assistants, teacher-track students
-
 **New York, 2018-05-10**
+
+Event website (NEW YORK, May 2018): https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockchain-workshop-geared-for-women-tickets-43206067511
 
 * Robert Schwentker -- https://dlt.education
 * Mariya Mego Vela -- Galvanize Web Immersive
@@ -43,7 +35,6 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Melissa Powell
 * Gage Valentino
 
-
 **Philadelplhia, 2018-06-20**
 
 * Su Wang
@@ -55,6 +46,8 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Mark Nichols
 
 **Hong Kong, 2018-07-27**
+
+Event website (HONG KONG, July 2018): https://www.meetup.com/TokenJam/events/253126249/
 
 * Angie Lau -- Narramur, Chief Narrator www.narramur.com
 * Hoi Tak Leung - Counsel, Ashurst HK (https://www.linkedin.com/in/hoitakleung/)
@@ -78,6 +71,9 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Joseph Kwong
 
 **Philadelphia, 2018-10-12**
+
+Event website (PHILLY, Oct 2018): https://www.eventbrite.com/e/chain-76-philadelphia-pharmaceuticals-supply-chain-and-blockchain-tickets-48864858106
+
 * Andrew Long -- Principal at aplusldevelopment.com
 * Evan Tini
 * Kelly Randis
@@ -90,6 +86,9 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Franklin Maggay
 
 **Miami, 2021-12-01**
+
+Event website (MIAMI, December 2021): https://www.dcentralcon.com
+
 * AJ Jolivette
 * William Penney III
 * Maciej Frik
@@ -106,6 +105,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Shawn Hutchens 
 
 **Origins NFT, 2022-01-18**
+
 * Puroof
 * [Oliver Popadich](https://github.com/opdich)
 * Lee Tang
@@ -223,6 +223,7 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * ADD YOUR NAME ABOVE HERE
 
 **NFT Tallinn workshop 2022-04-05**
+
 * Heiti K
 * David Ryabchikov
 * [Kaur Korjus](https://github.com/korjusk)
@@ -265,5 +266,8 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [Brendan Quinn](https://github.com/bquinn)
 * Andrei Sittsenko
 * Kaarel A
+
+**TRON Harvard Hacker House 2022-11-11**
+
 * Zaid
 * ADD YOUR NAME ABOVE HERE
