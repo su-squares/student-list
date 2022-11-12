@@ -275,4 +275,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Shruthi Kandampadath
 * Jennifer Shum
 * Zile Cao
+* Soumil Sahjpall
 * ADD YOUR NAME ABOVE HERE
