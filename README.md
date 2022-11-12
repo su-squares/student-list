@@ -278,4 +278,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Soumil Sahjpall
 * Gulya Bugdaeva
 * Omkar Ubale
+* Burhanuddin Jinwala
 * ADD YOUR NAME ABOVE HERE
