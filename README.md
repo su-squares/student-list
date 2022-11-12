@@ -271,4 +271,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 **TRON Harvard Hacker House 2022-11-11**
 
 * Zaid
+* Sasank Chunduri
 * ADD YOUR NAME ABOVE HERE
