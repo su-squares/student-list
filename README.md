@@ -280,4 +280,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Omkar Ubale
 * Burhanuddin Jinwala
 * Shravan Ramdurg
+* Connie Too
 * ADD YOUR NAME ABOVE HERE
