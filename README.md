@@ -282,4 +282,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Shravan Ramdurg
 * Connie Too
 * Mikko Tripakis
+* Dheeraj Valluru
 * ADD YOUR NAME ABOVE HERE
