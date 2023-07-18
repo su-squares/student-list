@@ -287,4 +287,6 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 
 **Community Service Hour Episode 77 2023-05-23**
 * [AKM (@037)](https://github.com/649)
+
+**Think&Dev event 2023-07-19**
 * ADD YOUR NAME ABOVE HERE
