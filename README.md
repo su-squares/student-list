@@ -289,4 +289,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * [AKM (@037)](https://github.com/649)
 
 **Think&Dev event 2023-07-19**
+* Matias Zabala
 * ADD YOUR NAME ABOVE HERE
