@@ -291,4 +291,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 **Think&Dev event 2023-07-19**
 * Matias Zabala
 * Alejandro Rothar
+* Pela Moreyra
 * ADD YOUR NAME ABOVE HERE
