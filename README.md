@@ -292,4 +292,5 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Matias Zabala
 * Alejandro Rothar
 * Pela Moreyra
+* Sebastian Lujan
 * ADD YOUR NAME ABOVE HERE
