@@ -10,6 +10,14 @@ Your teachers:
 
 Event website (NEW YORK, May 2018): https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockchain-workshop-geared-for-women-tickets-43206067511
 
+Media:
+
+* https://twitter.com/fulldecent/status/1030824395592359936
+* https://twitter.com/dlt_education/status/997570222130368515
+* https://twitter.com/hongchong_nft/status/1483639556268167170
+
+Attendees:
+
 * Robert Schwentker -- https://dlt.education
 * Mariya Mego Vela -- Galvanize Web Immersive
 * Christina Maldonado -- Student
@@ -105,6 +113,18 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Shawn Hutchens 
 
 **Origins NFT, 2022**
+
+Media: 
+
+* https://twitter.com/theding0x/status/1483640733269643264
+* https://twitter.com/Cbh4ou/status/1483641553205747716
+* https://twitter.com/willdjthrill/status/1483641739248242690
+* https://twitter.com/kaikun26/status/1483642390497964033
+* https://twitter.com/0xjieunah/status/1483643150212431872
+* https://twitter.com/wrinkily/status/1483645012554522627
+* https://twitter.com/tomalex_eth/status/1483649158485782535
+
+Participants:
 
 * Puroof
 * [Oliver Popadich](https://github.com/opdich)
@@ -277,4 +297,21 @@ Event website (MIAMI, December 2021): https://www.dcentralcon.com
 * Zile Cao
 * Soumil Sahjpall
 * Dheeraj Valluru
+* Gulya Bugdaeva
+* Omkar Ubale
+* Burhanuddin Jinwala
+* Shravan Ramdurg
+* Connie Too
+* Mikko Tripakis
+* Dheeraj Valluru
+* ADD YOUR NAME ABOVE HERE
+
+**Community Service Hour Episode 77 2023-05-23**
+* [AKM (@037)](https://github.com/649)
+
+**Think&Dev event 2023-07-19**
+* Matias Zabala
+* Alejandro Rothar
+* Pela Moreyra
+* Sebastian Lujan
 * ADD YOUR NAME ABOVE HERE
